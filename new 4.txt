@@ -1,0 +1,72 @@
+<html>
+<head>
+<style>
+#color{
+background-color:"lightgrey",
+float:left,
+text-decoration:none,
+
+}
+
+h5{
+background-color:"lightgrey",
+}
+#details{
+background-color:'lightblue',
+}
+h2{
+text-alignment:centre,}
+#videoimage{
+margin:auto
+}
+
+</style>
+
+</head>
+<body>
+<div>
+<ul id="color">
+<li>
+<img width=78px height=60px src="img","./ts-logo.png">
+</li>
+</ul>
+</div>
+<div id="details>
+<h2><center>
+PYTHON-THE NEW RULING LANGUAGE SAYS PROFESSOR
+PRABHU RAMACHANDRAN(IIT-MUMBAI)</center>
+</h2>
+</div>
+<iframe id="videoimage" src="<iframe width="300" height="400" src="https://www.youtube.com/embed/rfscVS0vtbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<table>
+<theader>
+<th>
+<img src="img","./ts-logo.png">
+</th>
+<th><h3>Follow us</h3>
+</th>
+<th>
+<h3>
+Get in touch</h3></th>
+</theader>
+</table>
+<div>
+<footer>
+<table>
+<tr>
+<td>
+<h5>Copyright&copy Talentsprint,2014</h5>
+</td>
+<td>
+<h5>Privacy Policy|Legal Disclaimer|Terms&Condition|Cancellation&Refund Policy|Shipping&Delivery Product</h5>
+</td>
+</tr>
+<tr><center>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, consequuntur laboriosam sint cum vitae perspiciatis aperiam praesentium cumque cupiditate id.</center>
+</tr>
+</table>
+</footer>
+</dui
+
+</body>
+</html>
